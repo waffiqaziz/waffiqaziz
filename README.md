@@ -1,10 +1,15 @@
-# Hi! 
+### Hi! 👋 I'm Waffiq.
 
-My name is **Waffiq Aziz**.
-
-I am a student majoring in **Informatics**
+I am a student majoring in **Informatics**. Still learning all about programming. Love tidy code and structured
 
 Want more about me 
 - [Linkedin](https://www.linkedin.com/in/waffiq-aziz/).
 - [Facebook](https://web.facebook.com/WaffiqAziz/).
 - [Twitter](https://twitter.com/AzizWaffiq).
+
+<p align="left">
+<a href="https://github.com/waffiqaziz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waffiqaziz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waffiqaziz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
