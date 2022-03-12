@@ -3,7 +3,7 @@
 I am a student majoring in **Informatics**. Still learning all about programming. Love tidy code and structured
 
 #### More about me 
-- [Linkedin](https://www.linkedin.com/in/waffiq-aziz/).
+- [LinkedIn](https://www.linkedin.com/in/waffiq-aziz/).
 - [Facebook](https://web.facebook.com/WaffiqAziz/).
 - [Twitter](https://twitter.com/AzizWaffiq).
 
