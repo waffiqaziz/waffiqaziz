@@ -4,6 +4,7 @@ I am a student majoring in **Informatics**. Still learning all about programming
 
 #### More about me 
 - [LinkedIn](https://www.linkedin.com/in/waffiq-aziz/).
+- [Instagram](https://www.instagram.com/waffiqaziz/).
 - [Facebook](https://web.facebook.com/WaffiqAziz/).
 - [Twitter](https://twitter.com/AzizWaffiq).
 
