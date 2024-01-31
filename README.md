@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Waffiq.
 
-I am a student majoring in **Informatics**. Still learning all about programming, more specifically on android development. Love tidy and structured code.
+Still learning all about programming, more specifically on android development. Love tidy and structured code.
 
 #### More about me 
 - [LinkedIn](https://www.linkedin.com/in/waffiq-aziz/).
