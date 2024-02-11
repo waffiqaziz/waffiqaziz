@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Waffiq.
 
-Still learning all about programming, more specifically on android development. Love tidy and structured code.
+Continue learning everything about programming, more specifically Android development. Likes neat and structured code.
 
 #### More about me 
 - [LinkedIn](https://www.linkedin.com/in/waffiq-aziz/).
