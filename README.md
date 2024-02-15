@@ -15,6 +15,7 @@ Continue learning everything about programming, more specifically Android develo
 </a>
 </p>
 
+#### Coding Stats
 <!--START_SECTION:waka-->
 
 ```txt
