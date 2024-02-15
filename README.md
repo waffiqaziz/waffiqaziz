@@ -16,4 +16,13 @@ Continue learning everything about programming, more specifically Android develo
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Kotlin                 28 hrs 59 mins  ████████████████████▒░░░░   80.85 %
+XML                    5 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Gradle                 26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Shrinker Config File   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Groovy                 12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+```
+
 <!--END_SECTION:waka-->
