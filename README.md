@@ -19,11 +19,11 @@ Continue learning everything about programming, more specifically Android develo
 <!--START_SECTION:waka-->
 
 ```rust
-XML                    10 hrs 34 mins  ████████████░░░░░░░░░░░░░   47.55 %
-Kotlin                 10 hrs 1 min    ███████████▒░░░░░░░░░░░░░   45.11 %
-Gradle                 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Shrinker Config File   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Properties             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+XML                    11 hrs          █████████████▓░░░░░░░░░░░   54.92 %
+Kotlin                 7 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.61 %
+Gradle                 32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Properties             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Groovy                 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
