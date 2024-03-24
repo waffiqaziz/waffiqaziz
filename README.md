@@ -3,7 +3,7 @@
 Continue learning everything about programming, more specifically Android development. Likes neat and structured code.
 
 #### More about me 
-- [LinkedIn](https://www.linkedin.com/in/waffiq-aziz/).
+- [LinkedIn](https://www.linkedin.com/in/waffiqaziz/).
 - [Instagram](https://www.instagram.com/waffiqaziz/).
 - [Facebook](https://web.facebook.com/WaffiqAziz/).
 - [Twitter](https://twitter.com/AzizWaffiq).
