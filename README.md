@@ -19,11 +19,11 @@ Continue learning everything about programming, more specifically Android develo
 <!--START_SECTION:waka-->
 
 ```rust
-Kotlin                 20 hrs 28 mins  ████████████████████▓░░░░   82.51 %
-HTML                   2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-XML                    51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Markdown               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Gradle                 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Kotlin                 19 hrs 14 mins  ████████████████████▒░░░░   81.57 %
+HTML                   2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+XML                    51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Markdown               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Gradle                 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
