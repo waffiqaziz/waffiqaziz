@@ -19,9 +19,10 @@ Continue learning everything about programming, more specifically Android develo
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 1 hr 3 mins
+Total Time: 1 hr 2 mins
 
-Kotlin   1 hr 3 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Kotlin   1 hr 1 min      >>>>>>>>>>>>>>>>>>>>>>>>>   98.33 %
+Java     1 min           -------------------------   01.67 %
 ```
 
 <!--END_SECTION:waka-->
