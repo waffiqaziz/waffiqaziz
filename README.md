@@ -19,9 +19,9 @@ Continue learning everything about programming, more specifically Android develo
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 36 mins
+Total Time: 0 secs
 
-Kotlin   36 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Kotlin   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
