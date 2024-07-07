@@ -22,7 +22,7 @@ Continue learning everything about programming, more specifically Android develo
 Total Time: 2 hrs 26 mins
 
 Kotlin                 1 hr 58 mins    >>>>>>>>>>>>>>>>>>>>-----   80.94 %
-Gradle                 25 mins         >>>>---------------------   17.48 %
+Gradle                 25 mins         >>>>---------------------   17.49 %
 Properties             1 min           -------------------------   00.97 %
 Groovy                 0 secs          -------------------------   00.57 %
 Shrinker Config File   0 secs          -------------------------   00.02 %
