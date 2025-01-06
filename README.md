@@ -19,18 +19,18 @@ Continue learning everything about programming, more specifically Android develo
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 39 hrs 2 mins
+Total Time: 35 hrs 27 mins
 
-Kotlin                 32 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>>----   83.93 %
-YAML                   3 hrs 39 mins   >>-----------------------   09.36 %
-Markdown               1 hr 9 mins     >------------------------   02.97 %
-TOML                   30 mins         -------------------------   01.30 %
-XML                    26 mins         -------------------------   01.15 %
-Java                   20 mins         -------------------------   00.89 %
-JSON                   5 mins          -------------------------   00.22 %
-Shrinker Config File   2 mins          -------------------------   00.09 %
-Properties             1 min           -------------------------   00.06 %
+Kotlin                 31 hrs 22 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.47 %
+YAML                   1 hr 47 mins    >------------------------   05.04 %
+Markdown               1 hr 15 mins    >------------------------   03.54 %
+TOML                   46 mins         >------------------------   02.20 %
+Java                   8 mins          -------------------------   00.40 %
+XML                    5 mins          -------------------------   00.25 %
+Properties             0 secs          -------------------------   00.03 %
+Shrinker Config File   0 secs          -------------------------   00.02 %
 Java Properties        0 secs          -------------------------   00.02 %
+Text                   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
