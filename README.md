@@ -19,18 +19,18 @@ Continue learning everything about programming, more specifically Android develo
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 58 hrs 58 mins
+Total Time: 64 hrs 23 mins
 
-Dart                   25 hrs 46 mins  >>>>>>>>>>>--------------   43.30 %
-Kotlin                 19 hrs 44 mins  >>>>>>>>-----------------   33.16 %
-XML                    5 hrs 38 mins   >>-----------------------   09.48 %
-YAML                   1 hr 50 mins    >------------------------   03.10 %
-Java                   1 hr 47 mins    >------------------------   03.00 %
-TOML                   1 hr 23 mins    >------------------------   02.33 %
-Prolog                 53 mins         -------------------------   01.51 %
-Markdown               51 mins         -------------------------   01.45 %
-Other                  33 mins         -------------------------   00.94 %
-HTML                   27 mins         -------------------------   00.77 %
+Dart                   36 hrs 31 mins  >>>>>>>>>>>>>>-----------   56.23 %
+Kotlin                 14 hrs 4 mins   >>>>>--------------------   21.66 %
+XML                    5 hrs 42 mins   >>-----------------------   08.78 %
+YAML                   2 hrs 1 min     >------------------------   03.11 %
+Java                   1 hr 46 mins    >------------------------   02.74 %
+TOML                   1 hr 23 mins    >------------------------   02.13 %
+Markdown               58 mins         -------------------------   01.51 %
+Prolog                 53 mins         -------------------------   01.38 %
+Other                  33 mins         -------------------------   00.86 %
+HTML                   27 mins         -------------------------   00.71 %
 ```
 
 <!--END_SECTION:waka-->
