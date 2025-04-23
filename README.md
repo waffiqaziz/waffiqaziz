@@ -13,7 +13,5 @@ I learning everything about programming, more specifically Mobile and Android de
 ![Waffiq's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=waffiqaziz&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waffiqaziz&layout=compact&langs_count=8&theme=dark)
 
-## 📊 This Week I Spent My Time On
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

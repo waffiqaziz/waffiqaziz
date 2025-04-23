@@ -7,6 +7,9 @@ on:
     # runs at midnight Jakarta time (UTC+7)
     - cron: "0 17 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Waka Stats
