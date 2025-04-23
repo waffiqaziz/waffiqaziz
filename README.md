@@ -18,9 +18,7 @@ I learning everything about programming, more specifically Mobile and Android de
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 277 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
@@ -80,5 +78,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2025 10:19:14 UTC
+ Last Updated on 23/04/2025 17:12:56 UTC
 <!--END_SECTION:waka-->
