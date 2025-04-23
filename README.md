@@ -1,36 +1,19 @@
-### Hi! 👋 I'm Waffiq.
 
-Continue learning everything about programming, more specifically Android development. Likes neat and structured code.
+# Hi! 👋 I'm Waffiq
 
-#### More about me 
-- [LinkedIn](https://www.linkedin.com/in/waffiqaziz/).
-- [Instagram](https://www.instagram.com/waffiqaziz/).
-- [Facebook](https://web.facebook.com/WaffiqAziz/).
-- [Twitter](https://twitter.com/AzizWaffiq).
+I learning everything about programming, more specifically Mobile and Android development. Likes neat and structured code.
 
-<p align="left">
-<a href="https://github.com/waffiqaziz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waffiqaziz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waffiqaziz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<!-- Get to know more about me?
 
-#### Coding Stats
+<a href="https://www.linkedin.com/in/waffiqaziz/"><img src="https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=linkedin&logoColor=white&color=0A66C2&style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/waffiqaziz/"><img src="https://img.shields.io/static/v1?label=%20&message=instagram&logo=instagram&logoColor=white&labelColor=%23E1306C&color=%23E1306C&style=for-the-badge" alt="Instagram"></a>
+<a href="https://web.facebook.com/WaffiqAziz/"><img src="https://img.shields.io/static/v1?label=%20&message=Facebook&logo=facebook&logoColor=white&color=1877F2&style=for-the-badge" alt="Facebook"></a>
+<a href="https://twitter.com/waffiqaziz"><img src="https://img.shields.io/static/v1?label=%20&message=X&logo=x&logoColor=white&color=000000&style=for-the-badge" alt="X"></a> -->
+
+![Waffiq's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=waffiqaziz&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waffiqaziz&layout=compact&langs_count=8&theme=dark)
+
+## 📊 This Week I Spent My Time On
+
 <!--START_SECTION:waka-->
-
-```rust
-Total Time: 32 hrs 8 mins
-
-Dart                23 hrs 29 mins  >>>>>>>>>>>>>>>>>>-------   71.69 %
-Markdown            3 hrs 58 mins   >>>----------------------   12.11 %
-YAML                2 hrs 17 mins   >>-----------------------   07.00 %
-Other               38 mins         -------------------------   01.93 %
-Gradle Kotlin DSL   28 mins         -------------------------   01.47 %
-Kotlin              27 mins         -------------------------   01.42 %
-JSON                19 mins         -------------------------   01.00 %
-XML                 15 mins         -------------------------   00.81 %
-HTML                14 mins         -------------------------   00.75 %
-TypeScript          8 mins          -------------------------   00.42 %
-```
-
 <!--END_SECTION:waka-->
