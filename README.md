@@ -10,8 +10,8 @@ I learning everything about programming, more specifically Mobile and Android de
 <a href="https://web.facebook.com/WaffiqAziz/"><img src="https://img.shields.io/static/v1?label=%20&message=Facebook&logo=facebook&logoColor=white&color=1877F2&style=for-the-badge" alt="Facebook"></a>
 <a href="https://twitter.com/waffiqaziz"><img src="https://img.shields.io/static/v1?label=%20&message=X&logo=x&logoColor=white&color=000000&style=for-the-badge" alt="X"></a> -->
 
-![Waffiq's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=waffiqaziz&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-![Top Langs](https://my-readme-stats-delta.vercel.app/api/top-langs/?username=waffiqaziz&layout=compact&langs_count=8&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=waffiqaziz&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=waffiqaziz&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=waffiqaziz&layout=compact&langs_count=8&theme=dark)
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
