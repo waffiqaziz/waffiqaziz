@@ -53,18 +53,18 @@ Sunday                   1009 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     21 hrs 12 mins      ████████████░░░░░░░░░░░░░   47.57 % 
-Kotlin                   14 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   33.27 % 
-Java Properties          3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-YAML                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Markdown                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Dart                     21 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.08 % 
+Kotlin                   15 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.04 % 
+Java Properties          4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+YAML                     3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Markdown                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 53 mins      █████████████████░░░░░░░░   69.28 % 
-Android Studio           13 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.72 % 
+VS Code                  32 hrs 41 mins      █████████████████░░░░░░░░   69.52 % 
+Android Studio           14 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   30.48 % 
 
 💻 Operating System: 
-Windows                  44 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  47 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,5 +80,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 17:58:37 UTC
+ Last Updated on 25/07/2026 22:21:44 UTC
 <!--END_SECTION:waka-->
