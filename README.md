@@ -18,7 +18,7 @@ I learning everything about programming, more specifically Mobile and Android de
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 404 Contributions in the Year 2026
+> 🏆 405 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,6 +26,47 @@ I learning everything about programming, more specifically Mobile and Android de
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2064 commits        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌆 Daytime                2268 commits        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+🌃 Evening                2182 commits        ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+🌙 Night                  1183 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1333 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Tuesday                  1026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                1060 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Thursday                 1124 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Friday                   1213 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Saturday                 932 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Sunday                   1009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Dart                     21 hrs 12 mins      ████████████░░░░░░░░░░░░░   47.57 % 
+Kotlin                   14 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   33.27 % 
+Java Properties          3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+YAML                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Markdown                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+
+🔥 Editors: 
+VS Code                  30 hrs 53 mins      █████████████████░░░░░░░░   69.28 % 
+Android Studio           13 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.72 % 
+
+💻 Operating System: 
+Windows                  44 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -39,5 +80,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 18:17:40 UTC
+ Last Updated on 25/07/2026 17:58:37 UTC
 <!--END_SECTION:waka-->
