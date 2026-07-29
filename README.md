@@ -14,11 +14,13 @@ I learning everything about programming, more specifically Mobile and Android de
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=waffiqaziz&layout=compact&langs_count=8&theme=dark)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2055%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 412 Contributions in the Year 2026
+> 🏆 415 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,21 +31,21 @@ I learning everything about programming, more specifically Mobile and Android de
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2240 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-🌆 Daytime                2445 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-🌃 Evening                2344 commits        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-🌙 Night                  1292 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌞 Morning                2765 commits        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+🌆 Daytime                2988 commits        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+🌃 Evening                2829 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+🌙 Night                  1630 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1441 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Tuesday                  1106 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Wednesday                1144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Thursday                 1215 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Friday                   1313 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Saturday                 1008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Monday                   1760 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Tuesday                  1345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Wednesday                1406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Thursday                 1489 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Friday                   1618 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Saturday                 1242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Sunday                   1352 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 
 
@@ -53,18 +55,18 @@ Sunday                   1094 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     27 hrs 9 mins       █████████████░░░░░░░░░░░░   51.96 % 
-Kotlin                   11 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Java Properties          5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-YAML                     4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Dart                     24 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.47 % 
+Kotlin                   12 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+YAML                     5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Java Properties          4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 17 mins      ████████████████████░░░░░   78.99 % 
-Android Studio           10 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+VS Code                  36 hrs 58 mins      ███████████████████░░░░░░   74.30 % 
+Android Studio           12 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
 
 💻 Operating System: 
-Windows                  52 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  49 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,5 +88,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 18:13:58 UTC
+ Last Updated on 29/07/2026 18:09:01 UTC
 <!--END_SECTION:waka-->
