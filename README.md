@@ -20,7 +20,7 @@ I learning everything about programming, more specifically Mobile and Android de
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 421 Contributions in the Year 2026
+> 🏆 423 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,21 +31,21 @@ I learning everything about programming, more specifically Mobile and Android de
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1755 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-🌆 Daytime                1927 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-🌃 Evening                1875 commits        ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-🌙 Night                  974 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+🌞 Morning                1952 commits        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+🌆 Daytime                2115 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+🌃 Evening                2044 commits        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+🌙 Night                  1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Tuesday                  889 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Wednesday                903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Thursday                 957 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Friday                   1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Saturday                 789 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Sunday                   845 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Monday                   1236 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Tuesday                  979 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Wednesday                995 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Thursday                 1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Friday                   1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Saturday                 870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Sunday                   934 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 ```
 
 
@@ -55,18 +55,18 @@ Sunday                   845 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Kotlin                   19 hrs 13 mins      █████████████░░░░░░░░░░░░   50.02 % 
-Dart                     12 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
-YAML                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Java Properties          2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Kotlin                   22 hrs 13 mins      ███████████████░░░░░░░░░░   61.35 % 
+Dart                     7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+XML                      3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+YAML                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Java Properties          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-Android Studio           20 hrs 51 mins      ██████████████░░░░░░░░░░░   54.27 % 
-VS Code                  17 hrs 34 mins      ███████████░░░░░░░░░░░░░░   45.73 % 
+Android Studio           26 hrs 19 mins      ██████████████████░░░░░░░   72.66 % 
+VS Code                  9 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
 
 💻 Operating System: 
-Windows                  38 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,5 +88,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 17:58:53 UTC
+ Last Updated on 04/08/2026 18:29:04 UTC
 <!--END_SECTION:waka-->
