@@ -14,13 +14,11 @@ I learning everything about programming, more specifically Mobile and Android de
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=waffiqaziz&layout=compact&langs_count=8&theme=dark)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2055%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 425 Contributions in the Year 2026
+> 🏆 426 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,53 +26,6 @@ I learning everything about programming, more specifically Mobile and Android de
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1954 commits        ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-🌆 Daytime                2117 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌃 Evening                2044 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-🌙 Night                  1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1236 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Tuesday                  978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Wednesday                1000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Thursday                 1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Friday                   1129 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Saturday                 870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Sunday                   934 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Kotlin                   21 hrs 49 mins      █████████████████░░░░░░░░   66.82 % 
-Dart                     5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-XML                      3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Java Properties          36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-
-🔥 Editors: 
-Android Studio           24 hrs 51 mins      ███████████████████░░░░░░   76.13 % 
-VS Code                  7 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-
-💻 Operating System: 
-Windows                  32 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -88,5 +39,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 18:20:34 UTC
+ Last Updated on 07/08/2026 17:45:40 UTC
 <!--END_SECTION:waka-->
